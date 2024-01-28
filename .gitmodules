@@ -1,0 +1,3 @@
+[submodule "martin-cloud-gateway"]
+	path = martin-cloud-gateway
+	url = git@github.com:www-zerocode-net-cn/martin-cloud-gateway.git
